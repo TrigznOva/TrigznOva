@@ -1,6 +1,8 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Développeur+Fullstack+%26+IA;Micro-entrepreneur;React+·+Node.js+·+Python+·+LLMs;Je+construis+des+trucs+qui+marchent.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Développeur+Fullstack+%26+IA;Micro-entrepreneur;React+·+Node.js+·+Python+·+LLMs;Je+construis+des+trucs+qui+marchent.)](https://git.io/typing-svg)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=TrigznOva&color=58A6FF&style=flat&label=Profile+views)
 
 </div>
 
@@ -23,6 +25,22 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=TrigznOva&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🏆 Trophées
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TrigznOva&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+### 📈 Activité
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TrigznOva&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
