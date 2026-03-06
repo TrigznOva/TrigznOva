@@ -1,9 +1,5 @@
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Développeur+Fullstack+%26+IA;Micro-entrepreneur;React+·+Node.js+·+Python+·+LLMs;Je+construis+des+trucs+qui+marchent.)](https://git.io/typing-svg)
-
-![Visitor Count](https://komarev.com/ghpvc/?username=TrigznOva&color=58A6FF&style=flat&label=Profile+views)
-
+  <img src="./banner.svg" width="100%"/>
 </div>
 
 ---
